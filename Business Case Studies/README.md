@@ -1,4 +1,4 @@
-1. [Human Resource Department Project](https://github.com/ayushs0911/Projects/blob/main/HR%20Department:%20Attrition%20Prediction.ipynb) <br>
+1. [Human Resource Department Project](https://github.com/ayushs0911/Projects/blob/main/Business%20Case%20Studies/HR%20Department%3A%20Attrition%20Prediction.ipynb) <br>
   Constructed Machine learning models to do classfication analysis to determine **whether employee will leave company or not**.<br>
   **Tools used**:
     - Libraries like Pandas, Nunpy, Tensorflow, Sklearn etc 
