@@ -3,14 +3,8 @@ These are various projects which I've performed to upskill my capabilities as a 
 Projects are spreadout on various different sections of Data Science, like Data Analysis, Data Exploration, Machine Learning Modelling and Deep Neural Networks. 
 
 ## Machine Learning Models
-
-Business Case Studies with Machine Learning algorithms<br>
-- [Human Resource Department](https://github.com/ayushs0911/Projects/blob/main/Business%20Case%20Studies/HR%20Department%3A%20Attrition%20Prediction.ipynb) : Employees Attrition Prediction
-- Marketing Department 
-- [Sales Department](https://github.com/ayushs0911/Projects/blob/main/Business%20Case%20Studies/Sales_Forecast_using_Facebook_Prophet.ipynb) : Sales Forecasting
-- Operations Department 
-- Public Relations Department 
-- Production/Manufacturing/Maintenance Department 
+[Human Resource Department](https://github.com/ayushs0911/Projects/blob/main/Business%20Case%20Studies/HR%20Department%3A%20Attrition%20Prediction.ipynb) : Employees Attrition Prediction
+[Sales Department](https://github.com/ayushs0911/Projects/blob/main/Business%20Case%20Studies/Sales_Forecast_using_Facebook_Prophet.ipynb) : Sales Forecasting
 
 ## Deep Learning Models
 ### Image Classification 
