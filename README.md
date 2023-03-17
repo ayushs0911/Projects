@@ -3,7 +3,7 @@ These are various projects which I've performed to upskill my capabilities as a 
 Projects are spreadout on various different sections of Data Science, like Data Analysis, Data Exploration, Machine Learning Modelling and Deep Neural Networks. 
 
 ## Machine Learning Models
-[Human Resource Department](https://github.com/ayushs0911/Projects/blob/main/Business%20Case%20Studies/HR%20Department%3A%20Attrition%20Prediction.ipynb) : Employees Attrition Prediction <br>
+[Human Resource Department](https://github.com/ayushs0911/Projects/blob/main/HR%20Department:%20Attrition%20Prediction.ipynb) : Employees Attrition Prediction <br>
 
 
 ## Deep Learning Models
@@ -13,4 +13,4 @@ Projects are spreadout on various different sections of Data Science, like Data 
 [Disaster Tweet Prediction : NLP](https://github.com/ayushs0911/Projects/blob/main/Disaster_tweets_Predictor.ipynb)<br>
 
 ## Time Forecasting
-[Sales Department](https://github.com/ayushs0911/Projects/blob/main/Business%20Case%20Studies/Sales_Forecast_using_Facebook_Prophet.ipynb) : Sales Forecasting
+[Sales Department](https://github.com/ayushs0911/Projects/blob/main/Sales_Forecast_using_Facebook_Prophet.ipynb) : Sales Forecasting
