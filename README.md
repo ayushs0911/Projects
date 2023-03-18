@@ -9,6 +9,7 @@ Projects are spreadout on various different sections of Data Science, like Data 
 ## Deep Learning Models
 ### Image Classification 
 [Food Vision 101 : Image Classification model using TensorFlow](https://github.com/ayushs0911/Projects/blob/main/Food_Vision_Image_Classificaton_TensorFlow.ipynb)<br>
+[Chest Disease Detection via X Ray Images](https://github.com/ayushs0911/Projects/blob/main/X_Ray_Prediction.ipynb)<br>
 ### NLP
 [Disaster Tweet Prediction : NLP](https://github.com/ayushs0911/Projects/blob/main/Disaster_tweets_Predictor.ipynb)<br>
 
