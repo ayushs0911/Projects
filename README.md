@@ -12,6 +12,7 @@ Projects are spreadout on various different sections of Data Science, like Data 
 [Chest Disease Detection via X Ray Images](https://github.com/ayushs0911/Projects/blob/main/X_Ray_Prediction.ipynb)<br>
 ### NLP
 [Disaster Tweet Prediction : NLP](https://github.com/ayushs0911/Projects/blob/main/Disaster_tweets_Predictor.ipynb)<br>
+[Sentiment Analysys : Alexa Reviews](https://github.com/ayushs0911/Projects/blob/main/Sentiment_Analysis_Amazon_Alexa.ipynb)
 
 ## Time Forecasting
 [Sales Department](https://github.com/ayushs0911/Projects/blob/main/Sales_Forecast_using_Facebook_Prophet.ipynb) : Sales Forecasting
