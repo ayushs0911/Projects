@@ -29,7 +29,7 @@ There are 0 directories and 4938 images in '/content/dataset/images/train/sad'.
  - `Vision Transformer`
  - Using `HuggingFace Transformer`
  
- **Best Performing Model Architecture** : HuggingFace downloaded Model performed best. 
+ **Best Performing Model Architecture** : HuggingFace downloaded Model performed best. <br>
  **Installations**
  ```
  !pip install transformers
