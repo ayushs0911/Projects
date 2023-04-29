@@ -20,4 +20,4 @@ There are 0 directories and 4938 images in '/content/dataset/images/train/sad'.
 ```
 
 **Data Visualization**
-![image](https://github.com/ayushs0911/Projects/blob/main/Emotions%20Detection/data_viz.png)
+![image](https://drive.google.com/file/d/1gkhkDW9BnoFsOhInrfBLv0oL3U-6rqiV/view?usp=sharing)
