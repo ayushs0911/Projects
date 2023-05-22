@@ -72,6 +72,14 @@ Epoch 4/20
 901/901 [==============================] - 1268s 1s/step - loss: 0.1896 - accuracy: 0.9369 - val_loss: 1.2746 - val_accuracy: 0.6817 - lr: 5.0000e-05
 Epoch 4: early stopping
 ```
+**Testing**<br>
+<img width="700" alt="Screenshot 2023-05-22 at 1 13 15 PM" src="https://github.com/ayushs0911/Projects/assets/122048067/3e7667e5-d674-4598-aa0c-e3fa50917e51">
+
+
+**Confusion Matrix**<br>
+<img width="500" alt="Screenshot 2023-05-22 at 1 12 28 PM" src="https://github.com/ayushs0911/Projects/assets/122048067/49ab2ac4-cc24-43ed-8ce0-fb31eec1068a">
+
+
  
  **Saving Model to Google Drive**
  
